@@ -1,6 +1,6 @@
 #  Copyright (c) 2022 @TheRiZoeL - RiZoeL
 # Telegram Ban All Bot 
-# Creator - RiZoeL
+# Creator - Zain Hussain
 
 import logging
 import re
